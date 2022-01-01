@@ -31,6 +31,8 @@ width:100%;
 display:flex;
 flex-direction:column;
 align-items:center;
+background-image:url("images/image.jpg");
+min-height:97vh;
 .title{
     text-align:center;
     font-size:20px;
